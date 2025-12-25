@@ -5,7 +5,7 @@ export default {
   host: 'http://localhost',
   port: '21465',
   deviceName: 'B1Whapi',
-  poweredBy: 'WPPConnect-Server',
+  poweredBy: 'B1nar',
   startAllSession: true,
   tokenStoreType: 'file',
   maxListeners: 15,

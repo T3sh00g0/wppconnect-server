@@ -97,7 +97,7 @@ export default {
     mongoIsRemote: true,
     mongoURLRemote: 'mongodb://mongo:xZtIczohIXUnJNpqGSLLgARQfqVenLxc@switchback.proxy.rlwy.net:28802',
     mongodbPort: 27017,
-    redisHost: 'redis.railway.internal',
+    redisHost: 'redis-production-8190.up.railway.app',
     redisPort: 6379,
     redisPassword: 'dGYiYHZcNmgBrDXtBxwFcRmLZaMcZbbP',
     redisDb: 0,

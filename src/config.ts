@@ -7,7 +7,7 @@ export default {
   deviceName: 'B1Whapi',
   poweredBy: 'B1nar',
   startAllSession: true,
-  tokenStoreType: 'file',
+  tokenStoreType: 'mongodb',
   maxListeners: 15,
   customUserDataDir: './userDataDir/',
   webhook: {
@@ -93,7 +93,7 @@ export default {
     mongodbCollection: 'tokens',
     mongodbUser: 'mongo',
     mongodbPassword: 'xZtIczohIXUnJNpqGSLLgARQfqVenLxc',
-    mongodbHost: 'mongodb-production-653b.up.railway.app',
+    mongodbHost: 'mongodb.railway.internal',
     mongoIsRemote: true,
     mongoURLRemote: 'mongodb://mongo:xZtIczohIXUnJNpqGSLLgARQfqVenLxc@switchback.proxy.rlwy.net:28802',
     mongodbPort: 27017,

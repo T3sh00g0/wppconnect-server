@@ -1,10 +1,10 @@
 import { ServerOptions } from './types/ServerOptions';
 
 export default {
-  secretKey: 'THISISMYSECURETOKEN',
+  secretKey: 'e96d16e0e97ce4f1bc397156eb34c9a8',
   host: 'http://localhost',
   port: '21465',
-  deviceName: 'WppConnect',
+  deviceName: 'B1Whapi',
   poweredBy: 'WPPConnect-Server',
   startAllSession: true,
   tokenStoreType: 'file',
